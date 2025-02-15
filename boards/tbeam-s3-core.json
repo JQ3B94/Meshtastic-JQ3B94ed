@@ -24,7 +24,7 @@
     "openocd_target": "esp32s3.cfg"
   },
   "frameworks": ["arduino"],
-  "name": "LilyGo TBeam-S3-Core",
+  "name": "Gucci Smart Toilet V1",
   "upload": {
     "flash_size": "8MB",
     "maximum_ram_size": 327680,
